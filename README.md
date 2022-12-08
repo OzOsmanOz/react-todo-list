@@ -2,10 +2,17 @@
 
 ## Used technologies
 
-![html5](https://user-images.githubusercontent.com/107813778/199717088-923b7581-af10-4623-8fd2-4e64a6f75440.png)
-![css3](https://user-images.githubusercontent.com/107813778/199717092-b4546a4b-bea4-49f4-8916-7352802e1edc.png)
-![bootstrap](https://user-images.githubusercontent.com/107813778/199717093-4f02b5be-1293-417e-b16e-fd389f58cca0.png)
-![react](https://user-images.githubusercontent.com/107813778/199716811-bca695fd-6d7d-4bec-ba57-859039a41e5c.png)
+
+![htmlicon](https://user-images.githubusercontent.com/107813778/206439988-c3a593d4-1a43-47f3-b7fb-04770e737b3e.png)
+![cssicon](https://user-images.githubusercontent.com/107813778/206439986-c5d466bd-a36f-4b38-a4d9-0fa5ee57e676.png)
+![bootstrapicon](https://user-images.githubusercontent.com/107813778/206439981-383b5522-0265-4a19-b667-18204194836a.png)
+![jsicon](https://user-images.githubusercontent.com/107813778/206439991-20671282-4742-44b4-989d-2c5daf023bf4.png)
+![reacticon](https://user-images.githubusercontent.com/107813778/206440007-f1d8d2e7-bc6b-4e0a-8568-7cefb5fe47cb.png)
+
+
+
+
+
 
 
 # Getting Started with Create React App
